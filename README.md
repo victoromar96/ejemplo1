@@ -1,3 +1,6 @@
 # ejemplo1
 
-hola mijines
+GRUPO #: 2
+JUAN COLLAGUAZO
+OMAR ESPIN 
+FERNANDO SAN MARTIN
