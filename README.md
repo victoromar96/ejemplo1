@@ -1,2 +1,2 @@
 # ejemplo1
-juan el papito rico fghsfh
+juan el papito rico
